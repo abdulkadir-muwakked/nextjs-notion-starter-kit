@@ -99,6 +99,10 @@ export function PageHead({
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
       <title>{title}</title>
+      <meta
+        name='google-site-verification'
+        content='CmY-cta0r13DENkZDQ_D_nHr9dK1zepj9L8GYBvcQGg'
+      />
     </Head>
   )
 }
