@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Body-Contouring',
-  domain: 'https://body-contouring-ten.vercel.app',
+  domain: 'body-contouring-ten.vercel.app',
   author: 'o9 medical',
 
   // open graph metadata (optional)
